@@ -16,6 +16,15 @@ something that happens while you work.
 *that* something changed, and *how many* windows exist. Same for music: it can
 tell your pet to dance when something is playing, but never what.
 
+| | |
+|:--:|:--:|
+| <img src="screenshots/egg.png" width="380" alt="An egg on the LCD, 46 of 120 steps"> | <img src="screenshots/road.png" width="380" alt="The zone road, with the creature walking it"> |
+| **It starts with an egg**, and the egg hatches by walking. The pose comes from the progress, not from a timer, and it wobbles faster the closer it gets. | **The road of the zone.** Milestones sit at fixed kilometres and the boss waits at the end. Every window you switch to slides the world a little. |
+| <img src="screenshots/home.png" width="380" alt="The creature asleep, with z z above it"> | <img src="screenshots/status.png" width="380" alt="Stats screen: HP, ATK, DEF, SPD, weight, energy, personality"> |
+| **It sleeps from 22:00 to 08:00**, lying on its side. Waking it up counts as neglect — this device does not owe you a pet on demand. | **Four trainable stats**, weight, energy and a personality that decides what it asks for and how often. A rule you cannot see is a rule you cannot play against. |
+| <img src="screenshots/encyclopedia.png" width="380" alt="Encyclopedia entry for Palmon"> | <img src="screenshots/goals.png" width="380" alt="Goals screen with progress bars"> |
+| **1488 species**, filled in as you meet them. Artwork and text are fetched on first use, never bundled. | **Goals and bits**, the currency. Walk 500 of road, meet 25 species, raise 5 — the long game behind the daily care. |
+
 ## What's in it
 
 **Care, on a schedule.** Hunger, mood, weight, dirt, illness, sleep from 22:00
@@ -52,6 +61,11 @@ with a purple halo" reads as a virus plant without a label.
 **And the rest**: hunting minigame, food that spoils, a market and a bank,
 achievements, an encyclopedia, code-based PvP, per-creature personalities that
 change what they ask for and how they fight, and sound.
+
+| | |
+|:--:|:--:|
+| <img src="screenshots/market.png" width="380" alt="The market screen, buying food"> | <img src="screenshots/nursery.png" width="380" alt="The nursery, holding a Gabumon"> |
+| **The market**, where bits go. Selling never pays more than buying — otherwise it would be an infinite loop. | **The nursery** holds the ones you are not carrying, and it is where two of them fuse into a third. |
 
 `docs/DIGIVICE.md` is the long version — the design document, including every
 decision that isn't obvious and why the first attempt at it was wrong.
