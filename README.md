@@ -163,6 +163,23 @@ device's name.
 Backgrounds (`plugins/Digivice/fondos/`), the egg sheet and the sound effects
 are original to this project.
 
+## Licence
+
+The **code** — every `.qml`, `.js` and `.py` file here — is [MIT](LICENSE), and
+so are the original assets: the zone backgrounds, the egg sprite sheet and the
+sound effects.
+
+Two things in this repository are **not** mine to relicense, so MIT does not
+reach them:
+
+- `plugins/Digivice/datos/*.json` is derived from
+  [digi-api.com](https://digi-api.com), sourced largely from
+  [Wikimon](https://wikimon.net). It stays under **CC-BY-SA 3.0**: keep the
+  attribution and share derivatives alike.
+- Digimon names, characters and designs are **Bandai** trademarks. Nothing here
+  licenses them. The sprites are not redistributed at all — they are fetched
+  from Wikimon at runtime into the user's own cache.
+
 ## Fan project
 
 Digimon and all related names, characters and designs are trademarks of
