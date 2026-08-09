@@ -1,0 +1,9 @@
+# backups and scratch
+*.bak
+*.orig
+*.rej
+*~
+
+# python bytecode from tools/
+__pycache__/
+*.pyc
